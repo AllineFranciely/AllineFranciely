@@ -1,7 +1,8 @@
-- Uma engenheira de produção migrando para a programação.
+- Estudante de desenvolvimento de software.
+- Engenheira de produção.
 - Fã de animes e leitora de mangás.
 - Desenhista nas horas vagas.
-- Sonhando com aquele home office de respeito. 
+- Em busca de um home office de respeito. 
 
 <!---
 AllineFranciely/AllineFranciely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
