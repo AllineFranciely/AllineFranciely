@@ -1,4 +1,4 @@
-- Estudante de desenvolvimento web.
+- Estudante de desenvolvimento de software.
 - Engenheira de produção.
 - Fã de animes e leitora de mangás.
 - Desenhista nas horas vagas.
