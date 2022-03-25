@@ -1,10 +1,8 @@
 - Name: Alline Franciely Silva
 
-Type: User
+- Bio: Web Development Student in Trybe
 
-Bio: Web Development Student in Trybe
-
-Location: Passos, MG
+- Location: Passos, MG
 
 Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil!
 
@@ -23,10 +21,23 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 
 
 📚 Aprendendo:
-JavaScript logo HTML5 logo CSS3 logo React logo Redux logo Jest logo Redux logo 
+- JavaScript 
+- HTML5 
+- CSS3 
+- React 
+- Redux 
+- Jest 
+- Redux
 
 🛠️ Eu costumo usar:
-Linux logo Visual Studio Code logo git 836FFFlogo ESLint Slack logo
+- Linux
+-  Visual Studio Code 
+-  Git e GitHub
+-  ESLint 
+-  Slack
 
 📖 Pretendo aprender em breve:
-Python logo SQL logo Node logo Mongo logo
+- Python 
+- SQL 
+- Node 
+- Mongo
