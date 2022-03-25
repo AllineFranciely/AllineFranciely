@@ -32,10 +32,11 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 
 🛠️ Eu costumo usar:
 - Linux
--  Visual Studio Code 
--  Git e GitHub
--  ESLint 
--  Slack
+- Windows
+- Visual Studio Code 
+- Git e GitHub
+- ESLint 
+- Slack
 
 📖 Pretendo aprender em breve:
 - Python 
