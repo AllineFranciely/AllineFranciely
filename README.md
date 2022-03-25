@@ -1,14 +1,12 @@
-- Name: Alline Franciely Silva
-
-- Bio: Web Development Student in Trybe
-
-- Location: Passos, MG
+- Name: Alline Franciely Silva.
+- Bio: Web Development Student in Trybe.
+- Location: Passos, MG.
 
 Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil!
 
 
 Desenvolvedora FullStack em formação pela Trybe :D 
-Sou formada em engenharia de produção e pós graduada em gestão ambiental, mas ao descobrir o mundo da programação decidi embarcar de cabeça nessa nova paixão <3
+Sou formada em engenharia de produção e pós graduada em gestão ambiental, mas ao descobrir o mundo da programação decidi embarcar de cabeça nessa nova paixão ❤️
 
 
 ❤️ Apaixonada por animais e pela natureza.
