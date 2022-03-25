@@ -21,7 +21,7 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 :key: Acredito que a programação abre portas para um mundo incrível.
 
 
-📚 Aprendendo:
+📚 Aprendendo sempre:
 - JavaScript 
 - HTML5 
 - CSS3 
