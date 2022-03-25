@@ -10,7 +10,7 @@ Desenvolvedora FullStack em formação pela Trybe :D
 Sou formada em engenharia de produção e pós graduada em gestão ambiental, mas ao descobrir o mundo da programação decidi embarcar de cabeça nessa nova paixão ❤️
 
 
-❤️ Apaixonada por animais e pela natureza.
+:dog: Apaixonada por animais e pela natureza.
 
 ❤️ Fã de animes e  leitora mangás.
 
