@@ -28,7 +28,8 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - React 
 - Redux 
 - Jest 
-- Redux
+- Context API
+- Python
 
 🛠️ Eu costumo usar:
 - Linux
@@ -39,7 +40,7 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Slack
 
 📖 Pretendo aprender em breve:
-- Python 
 - SQL 
 - Node 
 - Mongo
+- PHP
