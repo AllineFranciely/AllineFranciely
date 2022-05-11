@@ -14,7 +14,7 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 
 :dog: Apaixonada por animais e pela natureza.
 
-❤️ Fã de animes e  leitora mangás.
+❤️ Fã de animes e  leitora de mangás.
 
 :art: Desenhista nas horas vagas.
 
