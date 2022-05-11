@@ -38,6 +38,7 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Git e GitHub
 - ESLint 
 - Slack
+- Trello
 
 📖 Pretendo aprender em breve:
 - SQL 
