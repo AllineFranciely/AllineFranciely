@@ -7,6 +7,8 @@ Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil! :relaxed:
 
 Desenvolvedora FullStack em formação pela Trybe :green_heart:
 
+Pós graduanda em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
+
 Sou formada em engenharia de produção e pós graduada em gestão ambiental, mas ao descobrir o mundo da programação decidi embarcar de cabeça nessa nova paixão :mortar_board:
 
 
