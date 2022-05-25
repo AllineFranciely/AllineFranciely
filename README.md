@@ -32,6 +32,8 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Jest 
 - Context API
 - Python
+- Docker
+- MySQL
 
 🛠️ Eu costumo usar:
 - Linux
@@ -43,7 +45,6 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Trello
 
 📖 Pretendo aprender em breve:
-- SQL 
 - Node 
 - Mongo
 - PHP
