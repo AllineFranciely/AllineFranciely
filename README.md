@@ -1,5 +1,5 @@
 - Name: Alline Franciely Silva.
-- Bio: Full Stack Web Development Student in Trybe.
+- Bio: Full Stack Web Development Student in Trybe and Front End Web Developer.
 - Location: Passos, MG - Brazil.
 
 Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil! :relaxed:
