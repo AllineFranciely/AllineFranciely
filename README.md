@@ -30,10 +30,13 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - React 
 - Redux 
 - Jest 
+- RTL
 - Context API
 - Python
 - Docker
 - MySQL
+- Node.JS
+-Mocha, Chai e Sinon
 
 🛠️ Eu costumo usar:
 - Linux
@@ -45,6 +48,6 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Trello
 
 📖 Pretendo aprender em breve:
-- Node 
+- TypeScript 
 - Mongo
 - PHP
