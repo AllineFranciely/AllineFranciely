@@ -36,7 +36,8 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Docker
 - MySQL
 - Node.JS
--Mocha, Chai e Sinon
+- Mocha, Chai e Sinon
+- TypeScript 
 
 🛠️ Eu costumo usar:
 - Linux
@@ -48,6 +49,5 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 - Trello
 
 📖 Pretendo aprender em breve:
-- TypeScript 
 - Mongo
 - PHP
