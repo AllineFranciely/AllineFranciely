@@ -5,7 +5,7 @@
 Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil! :relaxed:
 
 
-Desenvolvedora FullStack com ênfase em FrontEnd :pink_heart:
+Desenvolvedora FullStack com ênfase em FrontEnd :purple_heart:
 
 Finalizando curso de desenvolvimento web pela Trybe :green_heart:
 
