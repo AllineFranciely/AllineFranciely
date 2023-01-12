@@ -31,13 +31,13 @@ Sou formada em engenharia de produção e pós graduada em gestão ambiental, ma
 </div>
 
 📚 Aprendendo sempre:
-JavaScript; HTML; CSS; React; Redux; Python; C#; TypeScript; Express; Nodejs; Sequelize; Docker; MySQL; MongoDB.
+JavaScript; HTML; CSS; React; Redux; Python; C#; .Net; TypeScript; Express; Nodejs; Sequelize; Docker; MySQL; MongoDB.
 
 🛠️ Eu costumo usar:
 Linux; Windows; VSCode; PyCharm; NPM; GitHub; Git; EsLint; Slack; Zoom Meeting; Trello; Figma; Heroku.
 
 📖 Pretendo aprender em breve:
-PHP; Sass; Phoenix; Elixir; Java; GitLab; RaspBerry.
+PHP; Sass; Flutter; Java; GitLab; RaspBerry.
 
 🤔 Ferramentas de Teste: 
 - React Testing Library (RTL).
