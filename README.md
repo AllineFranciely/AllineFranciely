@@ -1,5 +1,5 @@
 - Name: Alline Franciely Silva.
-- Bio: Full Stack Web Developer.
+- Bio: Full stack systems development analyst.
 - Location: São Paulo, SP - Brazil.
 
 Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil! :relaxed:
