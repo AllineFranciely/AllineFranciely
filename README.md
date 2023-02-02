@@ -7,7 +7,7 @@ Oi, aqui é a Alline! Sejam bem vindos (a) ao meu perfil! :relaxed:
 
 Desenvolvedora FullStack com ênfase em FrontEnd :purple_heart:
 
-Finalizando curso de desenvolvimento web pela Trybe :green_heart:
+Curso de desenvolvimento web pela Trybe :green_heart:
 
 Pós graduanda em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
 
