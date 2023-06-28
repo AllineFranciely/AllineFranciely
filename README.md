@@ -31,13 +31,13 @@ Pós graduada em Engenharia de Software pela Faculdade Única de Ipatinga :blue_
 </div>
 
 📚 Aprendendo sempre:
-JavaScript; HTML; CSS; React; Redux; Python; C#; .Net; TypeScript; Express; Nodejs; Sequelize; Docker; MySQL; MongoDB.
+JavaScript; HTML; CSS; React; Redux; Python; C#; .Net; TypeScript; Express; Nodejs; Sequelize; Docker; MySQL; MongoDB; OracleDB.
 
 🛠️ Eu costumo usar:
-Linux; Windows; VSCode; PyCharm; NPM; GitHub; Git; EsLint; Slack; Zoom Meeting; Trello; Figma; Heroku.
+Linux; Windows; VSCode; Visual Studio; PyCharm; NPM; GitHub; Git; EsLint; Slack; Zoom Meeting; Trello; Figma; Heroku; Jira; Google Meeting.
 
 📖 Pretendo aprender em breve:
-PHP; Sass; Flutter; Java; GitLab; RaspBerry.
+PHP; Sass; Flutter; Java; GitLab; Angular.
 
 🤔 Ferramentas de Teste: 
 - React Testing Library (RTL).
