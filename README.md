@@ -11,7 +11,7 @@ Curso de desenvolvimento web pela Trybe :green_heart:
 
 Pós graduanda em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
 
-Sou formada em engenharia de produção e pós graduada em gestão ambiental, mas ao descobrir o mundo da programação decidi embarcar de cabeça nessa nova paixão :mortar_board:
+Sou formada em engenharia de produção e pós graduada em engenharia de software :mortar_board:
 
 
 :dog: Apaixonada por animais e pela natureza.
