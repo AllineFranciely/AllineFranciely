@@ -9,9 +9,9 @@ Desenvolvedora FullStack com ênfase em FrontEnd :purple_heart:
 
 Curso de desenvolvimento web pela Trybe :green_heart:
 
-Pós graduanda em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
+Formada em Engenharia de Produção pela Universidade do Estado de Minas Gerais :mortar_board:
 
-Sou formada em engenharia de produção e pós graduada em engenharia de software :mortar_board:
+Pós graduanda em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
 
 
 :dog: Apaixonada por animais e pela natureza.
