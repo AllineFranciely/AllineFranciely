@@ -11,7 +11,7 @@ Curso de desenvolvimento web pela Trybe :green_heart:
 
 Formada em Engenharia de Produção pela Universidade do Estado de Minas Gerais :mortar_board:
 
-Pós graduanda em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
+Pós graduada em Engenharia de Software pela Faculdade Única de Ipatinga :blue_heart:
 
 
 :dog: Apaixonada por animais e pela natureza.
