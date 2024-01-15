@@ -31,7 +31,7 @@ Pós graduada em Engenharia de Software pela Faculdade Única de Ipatinga :blue_
 </div>
 
 📚 Aprendendo sempre:
-JavaScript; HTML; CSS; React; Redux; Python; C#; .Net; TypeScript; Java; Express; Nodejs; Sequelize; Docker; MySQL; MongoDB; OracleDB.
+JavaScript; HTML; CSS; Tailwind; React; Redux; Vue.js; Python; C#; .Net; TypeScript; Java; Express; Nodejs; Sequelize; Docker; MySQL; MongoDB; OracleDB; PL/SQL.
 
 🛠️ Eu costumo usar:
 Linux; Windows; VSCode; Visual Studio; PyCharm;Eclipse; NPM; GitHub; Git; EsLint; Slack; Zoom Meeting; Trello; Figma; Heroku; Jira; Google Meeting.
