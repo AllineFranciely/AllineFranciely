@@ -20,9 +20,9 @@ Pós graduada em Engenharia de Software pela Faculdade Única de Ipatinga :blue_
 
 :art: Desenhista nas horas vagas.
 
-:video_game: Nada melhor para relaxar do que jogar um game.
+:video_game: Nada melhor para relaxar do que jogar um game ou assistir uma série.
 
-:key: Acredito que a programação abre portas para um mundo incrível.
+:key: Acredito que a programação abre portas para oportunidades impensáveis.
 
 <div>
 <a href="https://instagram.com/alline_franciely" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
